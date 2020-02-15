@@ -2,8 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome");
-
+		// TODO Auto-generated method stub
+		Window window = new Window();
+		window.createWindow();
 	}
 
 }
