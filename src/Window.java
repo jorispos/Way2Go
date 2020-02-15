@@ -7,7 +7,7 @@ import javax.swing.JPanel;
 public class Window {
 	JPanel titlePanel;
 	JFrame window = new JFrame("Way2Go");
-	Color backgroundColor = new Color(35, 0, 0);
+	Color backgroundColor = new Color(35, 35, 0);
 	Container con;
 	
 	public Window() {
